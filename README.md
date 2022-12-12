@@ -3,7 +3,6 @@
 
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
-</br>
 
 - 🌱 I’m currently learning **Python, SQL and Data Viz tools.**
 
