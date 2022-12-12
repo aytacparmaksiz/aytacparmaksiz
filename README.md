@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aytac</h1>
 <h3 align="center">I'm a Data Enthusiast!</h3>
 
+(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif")
+
 - 🌱 I’m currently learning **Python, SQL and Data Viz tools.**
 
 - 📫 How to reach me **aytacparmaksiz@gmail.com**
