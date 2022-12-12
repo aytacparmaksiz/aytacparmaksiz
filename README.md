@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 
 - 🌱 I’m currently learning **Python, SQL and Data Viz tools.**
-
+- 📝 I'm willing to learn **M/L** and **D/L in 2023!**
 - 📫 How to reach me **aytacparmaksiz@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
