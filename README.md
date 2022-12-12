@@ -5,8 +5,6 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 </br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aytacparmaksiz&label=Profile%20views&color=0e75b6&style=flat" alt="aytacparmaksiz" /> </p>
-
 - 🌱 I’m currently learning **Python, SQL and Data Viz tools.**
 
 - 📫 How to reach me **aytacparmaksiz@gmail.com**
