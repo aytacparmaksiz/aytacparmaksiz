@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aytac</h1>
 <h3 align="center">I'm a Data Enthusiast!</h3>
 
-- 🌱 I’m currently learning ** Python, SQL and Data Viz tools.**
+- 🌱 I’m currently learning **Python, SQL and Data Viz tools.**
 
 - 📫 How to reach me **aytacparmaksiz@gmail.com**
 
