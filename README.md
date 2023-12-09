@@ -15,6 +15,7 @@
 <a href="https://linkedin.com/in/aytac-parmaksiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aytac-parmaksiz" height="30" width="40" /></a>
 <a href="https://instagram.com/aytacparmaksiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aytacparmaksiz" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/aytacparmaksiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aytacparmaksiz" height="30" width="40" /></a>
+<a href="https://www.novypro.com/profile_projects/aytacparmaksiz" target="blank"><img align="center" src="https://logohistory.net/wp-content/uploads/2023/05/Power-BI-Logo.png" alt="aytacparmaksiz" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
