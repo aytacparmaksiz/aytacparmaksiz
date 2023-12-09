@@ -7,7 +7,7 @@
 </br>
 
 - 🌱 I’m currently learning **Python, SQL and Data Viz tools.**
-- 📝 I'm willing to learn **M/L** and **D/L in 2023!**
+- 📝 I'm willing to learn **M/L** and **D/L in 2024!**
 - 📫 How to reach me **aytacparmaksiz@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
